@@ -1,12 +1,6 @@
 # Objetivo
-Desafio de entrevista em Python
+Criar uma tabela FIPE 
 
 # Empresa
-ASQ capital - investimentos
+Car values
 
-## Material de apoio
-https://github.com/Daviaraujo-art/Teste.py
-
-
-## Vídeo
-https://www.youtube.com/watch?v=hdDHg1p3YVc&t=973s
