@@ -1,11 +1,12 @@
 # Objetivo
-Desenvolver um site que consulta a tabela FIPE
+Desafio de entrevista em Python
 
-
+# Empresa
+ASQ capital - investimentos
 
 ## Material de apoio
-https://deividfortuna.github.io/fipe/
+https://github.com/Daviaraujo-art/Teste.py
 
 
 ## Vídeo
-https://www.youtube.com/watch?v=WYklZLoZNKw
+https://www.youtube.com/watch?v=hdDHg1p3YVc&t=973s
